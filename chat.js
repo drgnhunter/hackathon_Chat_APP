@@ -5,4 +5,5 @@ document.getElementById("menuBtn").addEventListener("click",()=>{
    console.log(menuBar)
 
    menuBar.classList.toggle("invisible");
-})
+});
+
